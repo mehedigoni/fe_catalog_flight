@@ -2,6 +2,7 @@
 <listings>
 <script src="chrome-extension://hoklmmgfnpapgjgcpechhaamimifchmp/frame_ant/frame_ant.js"/>
 <title>BG Flight Feed</title>
+<!--DAC:CGP(BG)-->
 <listing>
 <image>
 <url>https://i.imgur.com/aHi7IdH.png</url>
@@ -22,6 +23,7 @@
 <product_tags>flight</product_tags>
 <product_tags>economy</product_tags>
 </listing>
+<!--DAC:CXB(BG)-->
 <listing>
 <image>
 <url>https://i.imgur.com/aHi7IdH.png</url>
@@ -42,6 +44,7 @@
 <product_tags>flight</product_tags>
 <product_tags>economy</product_tags>
 </listing>
+<!--DAC:ZYL(BG)-->
 <listing>
 <image>
 <url>https://i.imgur.com/aHi7IdH.png</url>
@@ -62,6 +65,7 @@
 <product_tags>flight</product_tags>
 <product_tags>economy</product_tags>
 </listing>
+<!--DAC:SPD(BG)-->
 <listing>
 <image>
 <url>https://i.imgur.com/aHi7IdH.png</url>
@@ -82,6 +86,7 @@
 <product_tags>flight</product_tags>
 <product_tags>economy</product_tags>
 </listing>
+<!--DAC:JSR(BG)-->
 <listing>
 <image>
 <url>https://i.imgur.com/aHi7IdH.png</url>
@@ -96,6 +101,48 @@
 <url/>
 <origin_city>Dhaka</origin_city>
 <destination_city>Jessore</destination_city>
+<price>8,802</price>
+<one_way_price>4,401</one_way_price>
+<status>active</status>
+<product_tags>flight</product_tags>
+<product_tags>economy</product_tags>
+</listing>
+<!--DAC:BZL(BG)-->
+<listing>
+<image>
+<url>https://i.imgur.com/aHi7IdH.png</url>
+<tag>bg-economy</tag>
+</image>
+<flight_id>DACBZLBGeconomy</flight_id>
+<airline>Biman Bangladesh Airlines</airline>
+<flight_number>BG467</flight_number>
+<destination_airport>BZL</destination_airport>
+<origin_airport>DAC</origin_airport>
+<description>Non-stop | 20kg baggage | Free Snacks</description>
+<url/>
+<origin_city>Dhaka</origin_city>
+<destination_city>Barisal</destination_city>
+<price>6,973</price>
+<one_way_price>3,487</one_way_price>
+<status>active</status>
+<product_tags>flight</product_tags>
+<product_tags>economy</product_tags>
+</listing>
+<!--DAC:RJH(BG)-->
+<listing>
+<image>
+<url>https://i.imgur.com/aHi7IdH.png</url>
+<tag>bg-economy</tag>
+</image>
+<flight_id>DACRJHBGeconomy</flight_id>
+<airline>Biman Bangladesh Airlines</airline>
+<flight_number>BG467</flight_number>
+<destination_airport>RJH</destination_airport>
+<origin_airport>DAC</origin_airport>
+<description>Non-stop | 20kg baggage | Free Snacks</description>
+<url/>
+<origin_city>Dhaka</origin_city>
+<destination_city>Rajshahi</destination_city>
 <price>8,802</price>
 <one_way_price>4,401</one_way_price>
 <status>active</status>
