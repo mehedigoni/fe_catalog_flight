@@ -115,7 +115,7 @@
 </image>
 <flight_id>DACBZLBGeconomy</flight_id>
 <airline>Biman Bangladesh Airlines</airline>
-<flight_number>BG467</flight_number>
+<flight_number>BG473</flight_number>
 <destination_airport>BZL</destination_airport>
 <origin_airport>DAC</origin_airport>
 <description>Non-stop | 20kg baggage | Free Snacks</description>
@@ -136,7 +136,7 @@
 </image>
 <flight_id>DACRJHBGeconomy</flight_id>
 <airline>Biman Bangladesh Airlines</airline>
-<flight_number>BG467</flight_number>
+<flight_number>BG481</flight_number>
 <destination_airport>RJH</destination_airport>
 <origin_airport>DAC</origin_airport>
 <description>Non-stop | 20kg baggage | Free Snacks</description>
@@ -145,6 +145,405 @@
 <destination_city>Rajshahi</destination_city>
 <price>8,802</price>
 <one_way_price>4,401</one_way_price>
+<status>active</status>
+<product_tags>flight</product_tags>
+<product_tags>economy</product_tags>
+</listing>
+<!--SPD:CXB(BG)-->
+<listing>
+<image>
+<url>https://i.imgur.com/aHi7IdH.png</url>
+<tag>bg-economy</tag>
+</image>
+<flight_id>SPDCXBBGeconomy</flight_id>
+<airline>Biman Bangladesh Airlines</airline>
+<flight_number>BG591</flight_number>
+<destination_airport>CXB</destination_airport>
+<origin_airport>SPD</origin_airport>
+<description>Non-stop | 20kg baggage | Free Snacks</description>
+<url/>
+<origin_city>Saidpur</origin_city>
+<destination_city>Cox's Bazar</destination_city>
+<price>14,947</price>
+<one_way_price>7,932</one_way_price>
+<status>active</status>
+<product_tags>flight</product_tags>
+<product_tags>economy</product_tags>
+</listing>
+<!--ZYL:CXB(BG)-->
+<listing>
+<image>
+<url>https://i.imgur.com/aHi7IdH.png</url>
+<tag>bg-economy</tag>
+</image>
+<flight_id>ZYLCXBBGeconomy</flight_id>
+<airline>Biman Bangladesh Airlines</airline>
+<flight_number>BG202</flight_number>
+<destination_airport>CXB</destination_airport>
+<origin_airport>ZYL</origin_airport>
+<description>Non-stop | 20kg baggage | Free Snacks</description>
+<url/>
+<origin_city>Sylhet</origin_city>
+<destination_city>Cox's Bazar</destination_city>
+<price>17,209</price>
+<one_way_price>8,606</one_way_price>
+<status>active</status>
+<product_tags>flight</product_tags>
+<product_tags>economy</product_tags>
+</listing>
+<!--DAC:MED(BG)-->
+<listing>
+<image>
+<url>https://i.imgur.com/aHi7IdH.png</url>
+<tag>bg-economy</tag>
+</image>
+<flight_id>DACMEDBGeconomy</flight_id>
+<airline>Biman Bangladesh Airlines</airline>
+<flight_number>BG237</flight_number>
+<destination_airport>MED</destination_airport>
+<origin_airport>DAC</origin_airport>
+<description>Non-stop | 30kg baggage | Meal Included</description>
+<url/>
+<origin_city>Dhaka</origin_city>
+<destination_city>Medina</destination_city>
+<price>91,744</price>
+<one_way_price>62,151</one_way_price>
+<status>active</status>
+<product_tags>flight</product_tags>
+<product_tags>economy</product_tags>
+</listing>
+<!--DAC:RUH(BG)-->
+<listing>
+<image>
+<url>https://i.imgur.com/aHi7IdH.png</url>
+<tag>bg-economy</tag>
+</image>
+<flight_id>DACRUHBGeconomy</flight_id>
+<airline>Biman Bangladesh Airlines</airline>
+<flight_number>BG339</flight_number>
+<destination_airport>RUH</destination_airport>
+<origin_airport>DAC</origin_airport>
+<description>Non-stop | 30kg baggage | Meal Included</description>
+<url/>
+<origin_city>Dhaka</origin_city>
+<destination_city>Riyadh</destination_city>
+<price>77,126</price>
+<one_way_price>50,941</one_way_price>
+<status>active</status>
+<product_tags>flight</product_tags>
+<product_tags>economy</product_tags>
+</listing>
+<!--DAC:JED(BG)-->
+<listing>
+<image>
+<url>https://i.imgur.com/aHi7IdH.png</url>
+<tag>bg-economy</tag>
+</image>
+<flight_id>DACJEDBGeconomy</flight_id>
+<airline>Biman Bangladesh Airlines</airline>
+<flight_number>BG331</flight_number>
+<destination_airport>JED</destination_airport>
+<origin_airport>DAC</origin_airport>
+<description>Non-stop | 30kg baggage | Meal Included</description>
+<url/>
+<origin_city>Dhaka</origin_city>
+<destination_city>Jeddah</destination_city>
+<price>96,226</price>
+<one_way_price>64,532</one_way_price>
+<status>active</status>
+<product_tags>flight</product_tags>
+<product_tags>economy</product_tags>
+</listing>
+<!--DAC:DMM(BG)-->
+<listing>
+<image>
+<url>https://i.imgur.com/aHi7IdH.png</url>
+<tag>bg-economy</tag>
+</image>
+<flight_id>DACDMMBGeconomy</flight_id>
+<airline>Biman Bangladesh Airlines</airline>
+<flight_number>BG349</flight_number>
+<destination_airport>DMM</destination_airport>
+<origin_airport>DAC</origin_airport>
+<description>Non-stop | 30kg baggage | Meal Included</description>
+<url/>
+<origin_city>Dhaka</origin_city>
+<destination_city>Dammam</destination_city>
+<price>77,452</price>
+<one_way_price>55,470</one_way_price>
+<status>active</status>
+<product_tags>flight</product_tags>
+<product_tags>economy</product_tags>
+</listing>
+<!--DAC:YYZ(BG)-->
+<listing>
+<image>
+<url>https://i.imgur.com/aHi7IdH.png</url>
+<tag>bg-economy</tag>
+</image>
+<flight_id>DACYYZBGeconomy</flight_id>
+<airline>Biman Bangladesh Airlines</airline>
+<flight_number>BG305</flight_number>
+<destination_airport>YYZ</destination_airport>
+<origin_airport>DAC</origin_airport>
+<description>Non-stop | 40kg baggage | Meal Included</description>
+<url/>
+<origin_city>Dhaka</origin_city>
+<destination_city>Toronto</destination_city>
+<price>207,307</price>
+<one_way_price>132,353</one_way_price>
+<status>active</status>
+<product_tags>flight</product_tags>
+<product_tags>economy</product_tags>
+</listing>
+<!--DAC:FCO(BG)-->
+<listing>
+<image>
+<url>https://i.imgur.com/aHi7IdH.png</url>
+<tag>bg-economy</tag>
+</image>
+<flight_id>DACFCOBGeconomy</flight_id>
+<airline>Biman Bangladesh Airlines</airline>
+<flight_number>BG355</flight_number>
+<destination_airport>FCO</destination_airport>
+<origin_airport>DAC</origin_airport>
+<description>Non-stop | 40kg baggage | Meal Included</description>
+<url/>
+<origin_city>Dhaka</origin_city>
+<destination_city>Rome</destination_city>
+<price>96,044</price>
+<one_way_price>55,321</one_way_price>
+<status>active</status>
+<product_tags>flight</product_tags>
+<product_tags>economy</product_tags>
+</listing>
+<!--DAC:LON(BG)-->
+<listing>
+<image>
+<url>https://i.imgur.com/aHi7IdH.png</url>
+<tag>bg-economy</tag>
+</image>
+<flight_id>DACLONBGeconomy</flight_id>
+<airline>Biman Bangladesh Airlines</airline>
+<flight_number>BG201</flight_number>
+<destination_airport>LON</destination_airport>
+<origin_airport>DAC</origin_airport>
+<description>Non-stop | 40kg baggage | Meal Included</description>
+<url/>
+<origin_city>Dhaka</origin_city>
+<destination_city>London</destination_city>
+<price>189,267</price>
+<one_way_price>78,549</one_way_price>
+<status>active</status>
+<product_tags>flight</product_tags>
+<product_tags>economy</product_tags>
+</listing>
+<!--DAC:MAN(BG)-->
+<listing>
+<image>
+<url>https://i.imgur.com/aHi7IdH.png</url>
+<tag>bg-economy</tag>
+</image>
+<flight_id>DACMANBGeconomy</flight_id>
+<airline>Biman Bangladesh Airlines</airline>
+<flight_number>BG207</flight_number>
+<destination_airport>MAN</destination_airport>
+<origin_airport>DAC</origin_airport>
+<description>Non-stop | 40kg baggage | Meal Included</description>
+<url/>
+<origin_city>Dhaka</origin_city>
+<destination_city>Manchester</destination_city>
+<price>126,697</price>
+<one_way_price>67,128</one_way_price>
+<status>active</status>
+<product_tags>flight</product_tags>
+<product_tags>economy</product_tags>
+</listing>
+<!--DAC:DOH(BG)-->
+<listing>
+<image>
+<url>https://i.imgur.com/aHi7IdH.png</url>
+<tag>bg-economy</tag>
+</image>
+<flight_id>DACDOHBGeconomy</flight_id>
+<airline>Biman Bangladesh Airlines</airline>
+<flight_number>BG325</flight_number>
+<destination_airport>DOH</destination_airport>
+<origin_airport>DAC</origin_airport>
+<description>Non-stop | 40kg baggage | Meal Included</description>
+<url/>
+<origin_city>Dhaka</origin_city>
+<destination_city>Doha</destination_city>
+<price>82,733</price>
+<one_way_price>50,932</one_way_price>
+<status>active</status>
+<product_tags>flight</product_tags>
+<product_tags>economy</product_tags>
+</listing>
+<!--DAC:DXB(BG)-->
+<listing>
+<image>
+<url>https://i.imgur.com/aHi7IdH.png</url>
+<tag>bg-economy</tag>
+</image>
+<flight_id>DACDXBBGeconomy</flight_id>
+<airline>Biman Bangladesh Airlines</airline>
+<flight_number>BG147</flight_number>
+<destination_airport>DXB</destination_airport>
+<origin_airport>DAC</origin_airport>
+<description>Non-stop | 40kg baggage | Meal Included</description>
+<url/>
+<origin_city>Dhaka</origin_city>
+<destination_city>Dubai</destination_city>
+<price>64,804</price>
+<one_way_price>34,989</one_way_price>
+<status>active</status>
+<product_tags>flight</product_tags>
+<product_tags>economy</product_tags>
+</listing>
+<!--DAC:KTM(BG)-->
+<listing>
+<image>
+<url>https://i.imgur.com/aHi7IdH.png</url>
+<tag>bg-economy</tag>
+</image>
+<flight_id>DACKTMBGeconomy</flight_id>
+<airline>Biman Bangladesh Airlines</airline>
+<flight_number>BG373</flight_number>
+<destination_airport>KTM</destination_airport>
+<origin_airport>DAC</origin_airport>
+<description>Non-stop | 30kg baggage | Meal Included</description>
+<url/>
+<origin_city>Dhaka</origin_city>
+<destination_city>Kathmandu</destination_city>
+<price>33,507</price>
+<one_way_price>23,971</one_way_price>
+<status>active</status>
+<product_tags>flight</product_tags>
+<product_tags>economy</product_tags>
+</listing>
+<!--DAC:BKK(BG)-->
+<listing>
+<image>
+<url>https://i.imgur.com/aHi7IdH.png</url>
+<tag>bg-economy</tag>
+</image>
+<flight_id>DACBKKBGeconomy</flight_id>
+<airline>Biman Bangladesh Airlines</airline>
+<flight_number>BG388</flight_number>
+<destination_airport>BKK</destination_airport>
+<origin_airport>DAC</origin_airport>
+<description>Non-stop | 40kg baggage | Meal Included</description>
+<url/>
+<origin_city>Dhaka</origin_city>
+<destination_city>Bangkok</destination_city>
+<price>33,791</price>
+<one_way_price>26,994</one_way_price>
+<status>active</status>
+<product_tags>flight</product_tags>
+<product_tags>economy</product_tags>
+</listing>
+<!--DAC:SIN(BG)-->
+<listing>
+<image>
+<url>https://i.imgur.com/aHi7IdH.png</url>
+<tag>bg-economy</tag>
+</image>
+<flight_id>DACSINBGeconomy</flight_id>
+<airline>Biman Bangladesh Airlines</airline>
+<flight_number>BG584</flight_number>
+<destination_airport>SIN</destination_airport>
+<origin_airport>DAC</origin_airport>
+<description>Non-stop | 40kg baggage | Meal Included</description>
+<url/>
+<origin_city>Dhaka</origin_city>
+<destination_city>Singapore</destination_city>
+<price>57,322</price>
+<one_way_price>32,558</one_way_price>
+<status>active</status>
+<product_tags>flight</product_tags>
+<product_tags>economy</product_tags>
+</listing>
+<!--DAC:KUL(BG)-->
+<listing>
+<image>
+<url>https://i.imgur.com/aHi7IdH.png</url>
+<tag>bg-economy</tag>
+</image>
+<flight_id>DACKULBGeconomy</flight_id>
+<airline>Biman Bangladesh Airlines</airline>
+<flight_number>BG386</flight_number>
+<destination_airport>KUL</destination_airport>
+<origin_airport>DAC</origin_airport>
+<description>Non-stop | 40kg baggage | Meal Included</description>
+<url/>
+<origin_city>Dhaka</origin_city>
+<destination_city>Kuala Lumpur</destination_city>
+<price>44,087</price>
+<one_way_price>29,626</one_way_price>
+<status>active</status>
+<product_tags>flight</product_tags>
+<product_tags>economy</product_tags>
+</listing>
+<!--DAC:CAN(BG)-->
+<listing>
+<image>
+<url>https://i.imgur.com/aHi7IdH.png</url>
+<tag>bg-economy</tag>
+</image>
+<flight_id>DACCANBGeconomy</flight_id>
+<airline>Biman Bangladesh Airlines</airline>
+<flight_number>BG366</flight_number>
+<destination_airport>CAN</destination_airport>
+<origin_airport>DAC</origin_airport>
+<description>Non-stop | 40kg baggage | Meal Included</description>
+<url/>
+<origin_city>Dhaka</origin_city>
+<destination_city>Guangzhou</destination_city>
+<price>41,737</price>
+<one_way_price>27,201</one_way_price>
+<status>active</status>
+<product_tags>flight</product_tags>
+<product_tags>economy</product_tags>
+</listing>
+<!--DAC:NRT(BG)-->
+<listing>
+<image>
+<url>https://i.imgur.com/aHi7IdH.png</url>
+<tag>bg-economy</tag>
+</image>
+<flight_id>DACNRTBGeconomy</flight_id>
+<airline>Biman Bangladesh Airlines</airline>
+<flight_number>BG376</flight_number>
+<destination_airport>NRT</destination_airport>
+<origin_airport>DAC</origin_airport>
+<description>Non-stop | 40kg baggage | Meal Included</description>
+<url/>
+<origin_city>Dhaka</origin_city>
+<destination_city>Narita</destination_city>
+<price>83,435</price>
+<one_way_price>54,949</one_way_price>
+<status>active</status>
+<product_tags>flight</product_tags>
+<product_tags>economy</product_tags>
+</listing>
+<!--DAC:CUU(BG)-->
+<listing>
+<image>
+<url>https://i.imgur.com/aHi7IdH.png</url>
+<tag>bg-economy</tag>
+</image>
+<flight_id>DACCCUBGeconomy</flight_id>
+<airline>Biman Bangladesh Airlines</airline>
+<flight_number>BG395</flight_number>
+<destination_airport>CCU</destination_airport>
+<origin_airport>DAC</origin_airport>
+<description>Non-stop | 20kg baggage | Meal Included</description>
+<url/>
+<origin_city>Dhaka</origin_city>
+<destination_city>Kolkata</destination_city>
+<price>17,289</price>
+<one_way_price>9,435</one_way_price>
 <status>active</status>
 <product_tags>flight</product_tags>
 <product_tags>economy</product_tags>
